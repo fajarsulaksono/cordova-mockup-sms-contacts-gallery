@@ -1,1 +1,1 @@
-# cordova-mockup-sms-contacts-gallery
+# Apache Cordova Test Add Plugin (SMS, Showing Contacts, List Gallery)
