@@ -1,0 +1,37 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.projectscoid.demoMockup"
+    },
+    "cordova-plugin-sms": {
+      "PACKAGE_NAME": "com.projectscoid.demoMockup"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.projectscoid.demoMockup"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.projectscoid.demoMockup"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.projectscoid.demoMockup"
+    },
+    "cordova-plugin-android-support-v4": {
+      "PACKAGE_NAME": "com.projectscoid.demoMockup"
+    },
+    "cordova-plugin-photo-library": {
+      "PACKAGE_NAME": "com.projectscoid.demoMockup"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.projectscoid.demoMockup"
+    }
+  }
+}
