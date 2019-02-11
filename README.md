@@ -1,0 +1,1 @@
+# cordova-mockup-sms-contacts-gallery
